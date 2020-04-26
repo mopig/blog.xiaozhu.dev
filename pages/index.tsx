@@ -23,7 +23,7 @@ export default function Home({
       <section className={utilStyles.headingMd}>
         <p>Web Front-end Developer</p>
         <p>
-          Contact Me via <a href="mailto:admin@xiaozhu.dev">admin@xiaozhu.dev</a>
+          Contact me via <a href="mailto:admin@xiaozhu.dev">admin@xiaozhu.dev</a>
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
