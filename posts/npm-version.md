@@ -1,5 +1,5 @@
 ---
-title: "关于 `npm version` 的使用"
+title: "关于 [npm version] 的使用"
 date: "2020-04-26"
 ---
 
